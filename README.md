@@ -1,101 +1,113 @@
-Business-Insights-360
-Live Dashboard: Business Insights 360
-Home Page :
-View objective:
+ # Business-Insights-360
 
-1. Created a Home Page for the user to navigate to different Views in the Dashboard.
+## Live Dashboard: _[Business Insights 360](https://app.powerbi.com/Redirect?action=OpenApp&appId=bbf0caa7-dee2-482e-b029-87e1e5565eab&ctid=b5f86f36-3df0-46d1-beb7-50fa19e96f79)_
+## Home Page :
 
-2. The Images have navigation to their respective Views.
 
-Last Refreshed Date: Shows the last data when the database was refreshed
+- **View objective:** 
 
-Values in Millions($): Values in the Dashboard are in Millions $.
+    **1.** Created a _[Home Page](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Home-Page.pdf)_ fro the user to navigate to different Views in the Dashboard.
 
-Sales data loaded till mmm/yy: Sales data provided in the data base is up to the date "mmm/yy".
+    **2.** The Images have navigation to their respective Views.
 
-Finance View :
-View objective:
+- **Last Refreshed Date:** Shows the last data when the database was refreshed
 
-1. Created a Dashboard for Finance View
+- **Values in Millions($):** Values in the Dashboard are in Millions $.
 
-KPI Visuals: KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
+- **Sales data loaded till mmm/yy:** Sales data provided in the data base is up to the date "mmm/yy".
 
-Profit & Loss Statement A summary of a company's revenues, expenses, and profits/losses over a given period of time.
 
-Top/Bottom Customers by Net Sales: The two lower visuals give the insights about the Top & Bottom Customers and Products according to their Net Sales contribution.
+## Finance View :
 
-Sales View :
-View objective:
+- **View objective:** 
 
-1. Created a Dashboard for Sales View
+    **1.** Created a Dashboard for _[Finance View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Finance-View.pdf)_
 
-Customer Performance: Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
+- **KPI Visuals:** KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
 
-Product Performance: Product Performance based on their Net Sales, Gross Margin and Gross Margin %.
+- **Profit & Loss Statement** A summary of a company's revenues, expenses, and profits/losses over a given period of time.
 
-Performance Matrix: Scatter Plot showing the distribution of Customers according to Gross Margin % and Net Sales. Customers in the Top Right quadrant are having High Gross Margin % and High Net Sales.
+- **Top/Bottom Customers by Net Sales:** The two lower visuals give the insights about the Top & Bottom Customers and Products according to their Net Sales contribution.
 
-Key Metrics by Products: Donut Charts showing important metrics(Net Sales, Total Post Invoice Deductions, Pre Invoice Deductions, COGS, Gross Margin) Distribution for the specific fiscal year.
+## Sales View :
 
-Marketing View :
-View objective:
+- **View objective:** 
 
-1. Created a Dashboard for Marketing View
+    **1.** Created a Dashboard for _[Sales View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Sales-View.pdf)_
+  
+- **Customer Performance:** Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
-Product Performance: Product Performance based on their Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %.
+- **Product Performance:** Product Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
-Region/Market/Customer Performance: Performance of a Customer distributed by Key metrics. Can be filtered according to its Market or its Region.
+- **Performance Matrix:** Scatter Plot showing the distribution of Customers according to Gross Margin % and Net Sales. Customers in the Top Right quadrant are having High Gross Margin % and High Net Sales.
 
-Performance Matrix with Dual Filters: Scatter Plot showing the distribution of Customers according to Gross Margin % or Net Profit % & Net Sales. Customers in the Top Right quadrant are very Profitable.
+- **Key Metrics by Products:** Donut Charts showing important metrics(Net Sales, Total Post Invoice Deductions, Pre Invoice Deductions, COGS, Gross Margin) Distribution for the specific fiscal year.
 
-Unit Economics: Insights about the Individual customer's breakdown of Key Metrics(COGS and Gross Margin) in a Donut Chart, and about the Net Profit made after Operational Expenses using a Waterfall chart.
+## Marketing View :
 
-Supply Chain View :
-View objective:
+- **View objective:** 
 
-1. Created a Dashboard for Supply Chain View
+    **1.** Created a Dashboard for _[Marketing View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Marketing-View.pdf)_
 
-KPI Visuals: KPI Visuals for Forecast Accuracy, Net Error and ABS Error compared with their benchmark values(Last year).
+- **Product Performance:** Product Performance based on their Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %.
+  
+- **Region/Market/Customer Performance:** Performance of a Customer distributed by Key metrics. Can be filtered according to its Market or its Region.
 
-Accuracy/Net Error Trend: Monthly Distribution of Net Error and Forecast Accuracy (cuurent and last year) using a Line and Clustered Column Chart.
+- **Performance Matrix with Dual Filters:** Scatter Plot showing the distribution of Customers according to **Gross Margin %** or **Net Profit %** & **Net Sales**. Customers in the Top Right quadrant are very Profitable.
 
-Key Metrics by Products: Distribution of Key metrics based on products for the Supply Chain Team.
+- **Unit Economics:** Insights about the Individual customer's breakdown of Key Metrics(COGS and Gross Margin) in a Donut Chart, and about the Net Profit made after Operational Expenses using a Waterfall chart.
 
-Executive View :
-View objective:
+## Supply Chain View :
 
-1. Created a Dashboard for Executive View
+- **View objective:** 
 
-KPI Visuals: KPI Visuals for Forecast Accuracy, Net Sales, Gross Margin % and Net Profit % compared with their benchmark values(Last Year/Targets).
+    **1.** Created a Dashboard for _[Supply Chain View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Supply-Chain-View.pdf)_
 
-Revenue Distribution by Division and by Channel using two respective Donut Charts.
+- **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Error and ABS Error compared with their benchmark values(Last year).
 
-Key Insights by Subzone
+- **Accuracy/Net Error Trend:** Monthly Distribution of Net Error and Forecast Accuracy (cuurent and last year) using a Line and Clustered Column Chart.
 
-Yearly Trend of Net Sales, Gross Margin %, Net Profit % and PC Market Share % using a Line and Clustered Colmun Chart.
+- **Key Metrics by Products:** Distribution of Key metrics based on products for the Supply Chain Team.
 
-Product View :
-View objective:
+## Executive View :
 
-1. Created a Dashboard for Product View
+- **View objective:** 
 
-Customer Performance by GM % Target with Conditional formatting for a specific target value to tell which customer a re mettng the goals.
+    **1.** Created a Dashboard for _[Executive View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Executive-View.pdf)_
 
-Top 5 and Bottom 5 Product for Market: Top 5 and Bottom 5 Products filtered by Gross Margin %, Gross Margin % LY and Gross Margin % Growth.
+- **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Sales, Gross Margin % and Net Profit % compared with their benchmark values(Last Year/Targets).
 
-Technical Skills:
- Proficiency in ETL methodology (Extract, Transform, Load).
- Skills to generate a date table using Power Query.
- Ability to derive fiscal months and quarters.
- Establishing data model relationships in Model View.
- Proficiency in incorporating supplementary data into an existing data model.
- Utilizing DAX to create calculated columns and tables.
- Using different visuals to represent Key Insights.
- Used MySQL Database to load and retrieve the data.
- Optimized the size of the file using DAX Studio.
- Used Tooltips to show the trend.
-Soft Skills:
- Refined understanding of Finance, Sales, Marketing, Supply Chain and Executives.
- Designing user-centric Dashborads with empathy in mind.
- Optimization of Dashboards generation through meticulous fine-tuning and implementing Cloud Storage(Sharepoint).
- Stakeholder Management and manageing their requirement.
+- **Revenue Distribution by Division and by Channel** using two respective Donut Charts.
+
+- **Key Insights by Subzone**
+
+- **Yearly Trend of Net Sales, Gross Margin %, Net Profit % and PC Market Share %** using a Line and Clustered Colmun Chart.
+
+## Product View :
+
+- **View objective:** 
+
+    **1.** Created a Dashboard for _[Product View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Product-View.pdf)_
+
+- **Customer Performance by GM % Target** with Conditional formatting for a specific target value to tell which customer a re mettng the goals.
+
+- **Top 5 and Bottom 5 Product for Market**: Top 5 and Bottom 5 Products filtered by Gross Margin %, Gross Margin % LY and Gross Margin % Growth.   
+
+
+## Technical Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships in Model View.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns and tables.
+- [x]	Using different visuals to represent Key Insights.
+- [x]	Used MySQL Database to load and retrieve the data.
+- [x]	Optimized the size of the file using DAX Studio.
+- [x]	Used Tooltips to show the trend.
+
+## Soft Skills:
+- [x]	Refined understanding of Finance, Sales, Marketing, Supply Chain and Executives.
+- [x]	Designing user-centric Dashborads with empathy in mind.
+- [x]	Optimization of Dashboards generation through meticulous fine-tuning and implementing Cloud Storage(Sharepoint).
+- [x]	Stakeholder Management and manageing their requirement.
