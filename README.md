@@ -6,7 +6,7 @@
 
 - **View objective:** 
 
-    **1.** Created a _[Home Page](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Home-Page.pdf)_ fro the user to navigate to different Views in the Dashboard.
+    **1.** Created a _[Home Page](https://github.com/GreeshmaPRaypurmath/BI-360/blob/main/home%20page.pdf)_ for the user to navigate to different Views in the Dashboard.
 
     **2.** The Images have navigation to their respective Views.
 
